@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'OfficinaSerifMediumC';
+    src: url('OfficinaSerifMediumC.eot');
+    src: url('OfficinaSerifMediumC.eot?#iefix') format('embedded-opentype'),
+        url('OfficinaSerifMediumC.woff2') format('woff2'),
+        url('OfficinaSerifMediumC.woff') format('woff'),
+        url('OfficinaSerifMediumC.ttf') format('truetype'),
+        url('OfficinaSerifMediumC.svg#OfficinaSerifMediumC') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'OfficinaSerifBoldC';
+    src: url('OfficinaSerifBoldC.eot');
+    src: url('OfficinaSerifBoldC.eot?#iefix') format('embedded-opentype'),
+        url('OfficinaSerifBoldC.woff2') format('woff2'),
+        url('OfficinaSerifBoldC.woff') format('woff'),
+        url('OfficinaSerifBoldC.ttf') format('truetype'),
+        url('OfficinaSerifBoldC.svg#OfficinaSerifBoldC') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
